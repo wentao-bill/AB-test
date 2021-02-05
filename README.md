@@ -11,7 +11,7 @@ As players progress through the levels of the game, they will occasionally encou
 
 In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
 
-![gate](https://assets.datacamp.com/production/project_184/img/cc_gates.png)
+![gate](https://img.shangyexinzhi.com/image/article/850ab7065c7ada9a0b24ce2c10ee77a1.png?x-oss-process=image/resize,w_670)
 
 
 ## AB Test
